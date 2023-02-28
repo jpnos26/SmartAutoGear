@@ -56,5 +56,6 @@ This is data on TTGO TFT
 
 <img title="Explain" src="https://github.com/jpnos26/SmartAutoGear/blob/main/Image/explain.png" alt="" width="674">
 
-
 I hacked a lot of data on smart canbus..... not only used in this project.
+
+*App Android to use with this Project is** RemoteXY**, when you connect esp32  automatically have the correct interface*
