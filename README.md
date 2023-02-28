@@ -50,10 +50,11 @@ and off course is the schematcs of our peoject.... double use.
 
 This is the pcb
 
-<img title="Explain" src="https://github.com/jpnos26/SmartAutoGear/blob/main/Image/explain.png" alt="" width="674">
+<img title="" src="https://github.com/jpnos26/SmartAutoGear/blob/main/Image/pcb.png" alt="" width="674">
 
 This is data on TTGO TFT
 
-<img title="" src="file:///home/athos/snap/marktext/9/.config/marktext/images/2023-02-27-08-34-28-explain.png" alt="" width="674">
+<img title="Explain" src="https://github.com/jpnos26/SmartAutoGear/blob/main/Image/explain.png" alt="" width="674">
+
 
 I hacked a lot of data on smart canbus..... not only used in this project.
