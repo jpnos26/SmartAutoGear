@@ -44,7 +44,7 @@ This is the schematics, you can use it with Savvycan to do a very smart sniffer 
 
 You must have my modified version of esp32ret to compile and upload on esp32
 
-![](/home/athos/Scrivania/SmartAuto/SmartAutoGear/SmartAutoGear-main/Image/Schematics.png)
+(https://github.com/jpnos26/SmartAutoGear/blob/main/Image/Schematics.png))
 
 and off course is the schematcs of our peoject.... double use.
 
