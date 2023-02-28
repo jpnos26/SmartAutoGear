@@ -44,13 +44,13 @@ This is the schematics, you can use it with Savvycan to do a very smart sniffer 
 
 You must have my modified version of esp32ret to compile and upload on esp32
 
-(https://github.com/jpnos26/SmartAutoGear/blob/main/Image/Schematics.png))
+<img title="Scheme" src="https://github.com/jpnos26/SmartAutoGear/blob/main/Image/Schematics.png" alt="" width="674">
 
 and off course is the schematcs of our peoject.... double use.
 
 This is the pcb
 
-![](/home/athos/snap/marktext/9/.config/marktext/images/2023-02-27-08-38-34-image.png)
+<img title="Explain" src="https://github.com/jpnos26/SmartAutoGear/blob/main/Image/explain.png" alt="" width="674">
 
 This is data on TTGO TFT
 
