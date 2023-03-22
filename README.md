@@ -52,7 +52,7 @@ This is the pcb
 
 <img title="" src="https://github.com/jpnos26/SmartAutoGear/blob/main/Image/pcb.png" alt="" width="674">
 
-This is data on TTGO TFT
+This is data on TTGO TFT with my testing unit
 
 <img title="Explain" src="https://github.com/jpnos26/SmartAutoGear/blob/main/Image/explain.png" alt="" width="674">
 
