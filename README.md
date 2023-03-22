@@ -6,6 +6,8 @@ An esp32 to control  the Gearbox on the smart 451... all on obd2 port
 
 Version 0.1.0 beta
 
+The project is "AS IS" . I take no responsibility for the use of this project. Everyone can test it at their own risk
+
 Starting point:
 
 - 2 maps Eco and sport;
